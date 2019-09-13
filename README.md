@@ -7,5 +7,5 @@ start the root folder running on http://localhost:3000
 
 ## Games
 
- - [Pong](http://localhost:3000/pong)
- - [Space Shooter](http://localhost:3000/shooter)
+ - [Pong](pong)
+ - [Space Shooter](shooter)
